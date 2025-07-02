@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samuelposh
+- 👋 Hi, I’m @sam-cyber
 - 👀 I’m interested in becoming a network engineer, cyber security analyst and ethical hacker.
 - 🌱 I’m currently learning Cisco networking and Certified ethical hacking 
 - 💞️ I’m looking to collaborate on CCNA and CEH projects. 
