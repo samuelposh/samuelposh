@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samuelposh
-- 👀 I’m interested in becoming a network engineer and cyber security analyst 
-- 🌱 I’m currently learning Cisco networking and Cybersecurity 
-- 💞️ I’m looking to collaborate on CCNA 
-- 📫 How to reach me @samdtechie on TikTok and @Samuelposh001 on telegram 
+- 👀 I’m interested in becoming a network engineer, cyber security analyst and ethical hacker.
+- 🌱 I’m currently learning Cisco networking and Certified ethical hacking 
+- 💞️ I’m looking to collaborate on CCNA and CEH projects. 
+- 📫 How to reach me  on LinkedIn https://www.linkedin.com/in/samuel-adeyeye-69abb41b1
 
 <!---
 samuelposh/samuelposh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
