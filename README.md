@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelposh
-- 👀 I’m a Network Engineer, Cybersecurity Analyst, Ethical Hacker and Digital Marketer.
-- 💞️ I’m looking to collaborate on CCNA Ethical hacking and python projects. 
+- 👀 I’m a Full-Stack Web Developer, Ethical Hacker, and Digital Marketer.
+- 💞️ I’m looking to collaborate on CCNA Ethical hacking and Python projects. 
 - 📫 How to reach me  on LinkedIn https://www.linkedin.com/in/samuel-adeyeye-69abb41b1
 
 <!---
